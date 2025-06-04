@@ -206,9 +206,11 @@ ul {
 .blue-left #title {
     color: white;
     font-weight: 900;
+    margin-bottom: -10px;
 }
 
 .blue-left #subtitle {
     color: white;
     font-size: 12px;
+    margin-top: -8px;
 }
